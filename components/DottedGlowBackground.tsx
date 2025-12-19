@@ -7,6 +7,8 @@
 import React, { useEffect, useRef } from 'react';
 
 type DottedGlowBackgroundProps = {
+  /** Optional key prop for React reconciliation and forcing remounts */
+  key?: React.Key;
   className?: string;
   gap?: number;
   radius?: number;
