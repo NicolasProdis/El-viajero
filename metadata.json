@@ -1,0 +1,6 @@
+{
+  "name": "El viajero",
+  "description": "A Zen-inspired journaling RPG that transforms your daily accomplishments into quests for spiritual growth.",
+  "requestFramePermissions": [],
+  "prompt": "Create a minimalist journaling app where users enter daily achievements. Gemini evaluates them, assigns an RPG rank (S, A, B, etc.), awards XP for level progression, and generates a poetic summary and a unique minimalist icon for each entry. Aesthetic: Zen, high-contrast dark mode, monochrome with gold accents."
+}
